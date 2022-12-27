@@ -1,10 +1,4 @@
-// cslculator in react
-// import React from 'react';
-// import ReactDOM from 'react-dom';
-// import App from './App';
-// ReactDOM.render(
-//   <><App/></>,document.getElementById('root')
-// );
+
 
 import React from 'react';
 import ReactDOM from 'react-dom'
@@ -16,7 +10,7 @@ import './index.css';
 ReactDOM.render(
   <>
   
-    <h1 className='heading_style'>top 6 netflix series </h1>
+    <h1 className='heading_style'>top 5 netflix series </h1>
    
    
     {Sdata.map( (val) =>{
